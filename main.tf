@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "example" {
-  bucket = "my-s3-saidemy-bucket-abcde"
+  bucket = "my-s3-saidemy-bucket-abcdef"
 }
